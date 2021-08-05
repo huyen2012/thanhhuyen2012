@@ -1,0 +1,51 @@
+D:\dot net\QLCLBSACH\QLCLBSACH\bin\Debug\QLCLBSACH.exe.config
+D:\dot net\QLCLBSACH\QLCLBSACH\bin\Debug\QLCLBSACH.exe
+D:\dot net\QLCLBSACH\QLCLBSACH\bin\Debug\QLCLBSACH.pdb
+D:\dot net\QLCLBSACH\QLCLBSACH\obj\Debug\QLCLBSACH.frmDangNhap.resources
+D:\dot net\QLCLBSACH\QLCLBSACH\obj\Debug\QLCLBSACH.frmThanhVien.resources
+D:\dot net\QLCLBSACH\QLCLBSACH\obj\Debug\QLCLBSACH.Properties.Resources.resources
+D:\dot net\QLCLBSACH\QLCLBSACH\obj\Debug\QLCLBSACH.csproj.GenerateResource.Cache
+D:\dot net\QLCLBSACH\QLCLBSACH\obj\Debug\QLCLBSACH.exe
+D:\dot net\QLCLBSACH\QLCLBSACH\obj\Debug\QLCLBSACH.pdb
+D:\dot net\QLCLBSACH\QLCLBSACH\obj\Debug\QLCLBSACH.frmMuonSach.resources
+D:\dot net\QLCLBSACH\QLCLBSACH\obj\Debug\QLCLBSACH.frmMuonTra.resources
+D:\dot net\QLCLBSACH\QLCLBSACH\obj\Debug\QLCLBSACH.frmTimKiem.resources
+D:\dot net\QLCLBSACH\QLCLBSACH\obj\Debug\QLCLBSACH.frmTTNXB.resources
+D:\dot net\QLCLBSACH\QLCLBSACH\obj\Debug\QLCLBSACH.frmTTtacgia.resources
+D:\dot net\QLCLBSACH\QLCLBSACH\obj\Debug\QLCLBSACH.frmTTtheloai.resources
+D:\dot net\QLCLBSACH\QLCLBSACH\obj\Debug\QLCLBSACH.frmXuLyVP.resources
+D:\dot net\QLCLBSACH\QLCLBSACH\obj\Debug\QLCLBSACH.frmDKyThe.resources
+D:\dot net\QLCLBSACH\QLCLBSACH\obj\Debug\QLCLBSACH.frmTTsach.resources
+D:\QLYCLBSACH\QLCLBSACH\bin\Debug\QLCLBSACH.exe.config
+D:\QLYCLBSACH\QLCLBSACH\obj\Debug\QLCLBSACH.exe
+D:\QLYCLBSACH\QLCLBSACH\obj\Debug\QLCLBSACH.pdb
+D:\QLYCLBSACH\QLCLBSACH\bin\Debug\QLCLBSACH.exe
+D:\QLYCLBSACH\QLCLBSACH\bin\Debug\QLCLBSACH.pdb
+D:\QLYCLBSACH\QLCLBSACH\obj\Debug\QLCLBSACH.csprojResolveAssemblyReference.cache
+D:\QLYCLBSACH\QLCLBSACH\obj\Debug\QLCLBSACH.frmDangNhap.resources
+D:\QLYCLBSACH\QLCLBSACH\obj\Debug\QLCLBSACH.frmDKyThe.resources
+D:\QLYCLBSACH\QLCLBSACH\obj\Debug\QLCLBSACH.frmDangKy.resources
+D:\QLYCLBSACH\QLCLBSACH\obj\Debug\QLCLBSACH.frmSuaThanhVien.resources
+D:\QLYCLBSACH\QLCLBSACH\obj\Debug\QLCLBSACH.frmTimKiem.resources
+D:\QLYCLBSACH\QLCLBSACH\obj\Debug\QLCLBSACH.frmTTNXB.resources
+D:\QLYCLBSACH\QLCLBSACH\obj\Debug\QLCLBSACH.frmTTsach.resources
+D:\QLYCLBSACH\QLCLBSACH\obj\Debug\QLCLBSACH.frmTTtacgia.resources
+D:\QLYCLBSACH\QLCLBSACH\obj\Debug\QLCLBSACH.frmTTtheloai.resources
+D:\QLYCLBSACH\QLCLBSACH\obj\Debug\QLCLBSACH.Properties.Resources.resources
+D:\QLYCLBSACH\QLCLBSACH\obj\Debug\QLCLBSACH.csproj.GenerateResource.Cache
+D:\QLYCLBSACH\QLCLBSACH\obj\Debug\QLCLBSACH.frmDKyMuonSach.resources
+D:\QLYCLBSACH\QLCLBSACH\obj\Debug\QLCLBSACH.frmTrangChu.resources
+D:\dot net\QLYCLBSACH\QLCLBSACH\obj\Debug\QLCLBSACH.csprojAssemblyReference.cache
+D:\dot net\QLYCLBSACH\QLCLBSACH\obj\Debug\QLCLBSACH.frmDangNhap.resources
+D:\dot net\QLYCLBSACH\QLCLBSACH\obj\Debug\QLCLBSACH.frmDangKy.resources
+D:\dot net\QLYCLBSACH\QLCLBSACH\obj\Debug\QLCLBSACH.frmSuaThanhVien.resources
+D:\dot net\QLYCLBSACH\QLCLBSACH\obj\Debug\QLCLBSACH.Properties.Resources.resources
+D:\dot net\QLYCLBSACH\QLCLBSACH\obj\Debug\QLCLBSACH.csproj.GenerateResource.cache
+D:\dot net\QLYCLBSACH\QLCLBSACH\obj\Debug\QLCLBSACH.csproj.CoreCompileInputs.cache
+D:\dot net\QLYCLBSACH\QLCLBSACH\obj\Debug\QLCLBSACH.exe
+D:\dot net\QLYCLBSACH\QLCLBSACH\obj\Debug\QLCLBSACH.pdb
+D:\dot net\QLYCLBSACH\QLCLBSACH\bin\Debug\QLCLBSACH.exe.config
+D:\dot net\QLYCLBSACH\QLCLBSACH\bin\Debug\QLCLBSACH.exe
+D:\dot net\QLYCLBSACH\QLCLBSACH\bin\Debug\QLCLBSACH.pdb
+D:\dot net\QLYCLBSACH\QLCLBSACH\obj\Debug\QLCLBSACH.frmTrangChu.resources
+D:\dot net\QLYCLBSACH\QLCLBSACH\obj\Debug\QLCLBSACH.frmAdmin.resources
